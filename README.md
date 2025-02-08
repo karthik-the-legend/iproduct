@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Responsive Airpods Landing Page
 ## [Watch it on youtube](https://youtu.be/4YR6goNFeSY)
 ### Responsive Airpods Landing Page
@@ -11,3 +12,6 @@
 💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
 
 ![preview img](/preview.png)
+=======
+# iproduct
+>>>>>>> 5b701ef088a515fcc69dd053c80979d09aa189fa
